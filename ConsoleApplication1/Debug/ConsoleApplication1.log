@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\gl\gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\init.h(15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\init.h(16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\init.h(21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\js\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(103): warning C4715: 'Sphere::hit': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\JS\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\JS\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
